@@ -4,7 +4,7 @@
 
 <img src= "https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif" alt="description" width="400" align="right">
 
-- 🌱 I’m currently preparing for **PL 300 certification**
+- 🌱 **PL 300 certified**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saiqua29](https://github.com/Saiqua29)
 
