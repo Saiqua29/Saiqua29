@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MYSQL,Python,Power BI,Excel,ML & DL**
 
-- 📫 How to reach me **saiqua96@gmail.com**
+- 📫 Reach me at **saiqua96@gmail.com**
 
 - ⚡ Fun fact **I was a civil engineer**
 
