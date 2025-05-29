@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@saiqua96](https://medium.com/@saiqua96)
 
-- 💬 Ask me about **MYSQL,Python,Power BI,Excel,ML & DL**
+- 💬 Ask me about **SQL,Python,Power BI,Excel,ML & DL**
 
 - 📫 Reach me at **saiqua96@gmail.com**
 
